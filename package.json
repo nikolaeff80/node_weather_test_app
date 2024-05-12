@@ -1,0 +1,17 @@
+{
+  "name": "testukresheniya",
+  "version": "1.0.0",
+  "description": "Test task for UKResheniya by Nikolai Nikolaev",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nikolai Nikolaev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2"
+  }
+}
